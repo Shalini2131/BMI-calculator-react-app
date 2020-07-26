@@ -1,6 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 # Simple Body Mass Index Calculator using react hooks
-## On opening this app, you will be able to see two text boxes. You have to enter your height(in metres) in the first text box and your weight(in kgs) in the second text box. Please don't forget to type them in given metrics, if not it will display wrong BMI. 
+### On opening this app, you will be able to see two text boxes. You have to enter your height(in metres) in the first text box and your weight(in kgs) in the second text box. Please don't forget to type them in given metrics, if not it will display wrong BMI.
+###### Note: Initially it will display 20.9
 
 ## Available Scripts
 
